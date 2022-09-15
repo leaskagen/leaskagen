@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="200" align="center"/>
 </p>
 
-<h4 align="center">Check out my <a href="https://www.linkedin.com/in/lea-sofie-skagen-a29451169/">LinkedIn</a> or <a href="https://leaskagen.github.io">Portfolio Website</a></h4>
+<h4 align="center">Check out my <a href="https://www.linkedin.com/in/lea-sofie-skagen-a29451169/">LinkedIn</a> or <a href="https://leaskagen.github.io">Portfolio Website</a> :link::computer:</h4>
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
