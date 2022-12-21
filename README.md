@@ -10,7 +10,7 @@
   Check out my 
     <a href="https://www.linkedin.com/in/lea-sofie-skagen-a29451169/">LinkedIn</a> 
   or 
-    <a href="https://leaskagen.github.io">Portfolio Website</a> 
+    <a href="https://leaskagen.dev">Portfolio Website</a> 
   :link::computer:
 </h4>
 <hr>
