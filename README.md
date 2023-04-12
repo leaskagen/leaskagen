@@ -86,5 +86,5 @@
 <hr>
 <br>
  
-<img align="left" height="160" width="395" src="https://github-readme-stats.vercel.app/api/top-langs?username=leaskagen&show_icons=true&locale=en&layout=compact" alt="leaskagen" />
+<img align="left" height="160" width="395" src="https://github-readme-stats.vercel.app/api/top-langs?username=leaskagen&show_icons=true&locale=en&layout=compact&hide=html" alt="leaskagen" />
 <img align="right" height="160" width="395" src="https://github-readme-stats.vercel.app/api?username=leaskagen" alt="leaskagen" />
