@@ -1,7 +1,7 @@
 <h1 align="center"> :zap: Lea Skagen :zap: </h1>
 <p align="center">
   Hello there :bangbang::sparkles: 
-  I am a 22 year old girl boss from Oslo, Norway. I am a third year student at Kristiania University College, and I will graduate in spring 2023 with a bachelor's degree in Frontend and Mobile Development. :mortar_board: 
+  I am a 22 year old girl boss from Oslo, Norway. Currently working as a Frontend Developer at Dr.Dropin. I graduated from Kristiania University College in 2023 with a bachelor's degree in Information Technology - Frontend and Mobile Development. :mortar_board: 
   I also love to play video games when I am not studying or working, my favorite games include Minecraft, The Sims 4 and Animal Crossing New Horizons. :video_game::space_invader: 
   <br><br>
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="200" align="center"/>
