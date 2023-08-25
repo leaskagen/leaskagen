@@ -1,7 +1,7 @@
 <h1 align="center"> :zap: Lea Skagen :zap: </h1>
 <p align="center">
   Hello there :bangbang::sparkles: 
-  I am a 22 year old girl boss from Oslo, Norway. Currently working as a Frontend Developer at Dr.Dropin. I graduated from Kristiania University College in 2023 with a bachelor's degree in Information Technology - Frontend and Mobile Development. :mortar_board: 
+  I am a 23 year old girl boss from Oslo, Norway. Currently working as a Frontend Developer at Dr.Dropin. I graduated from Kristiania University College in 2023 with a bachelor's degree in Information Technology - Frontend and Mobile Development. :mortar_board: 
   I also love to play video games when I am not studying or working, my favorite games include Minecraft, The Sims 4 and Animal Crossing New Horizons. :video_game::space_invader: 
   <br><br>
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="200" align="center"/>
@@ -15,7 +15,7 @@
 </h4>
 <hr>
 
-### Technologies I am currently learning
+### Technologies I am currently learning / working with
 <br>
 <img src="https://media.giphy.com/media/pzmbXFDiRbEEk1vCtP/giphy.gif" width="350" align="right"/>
 <p align="left">
@@ -25,10 +25,12 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> 
   </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="65" height="65"/> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="65" height="65"/> 
   </a>
-  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" width="65" height="65" /></a>  
+  <a href="https://nextjs.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" width="65" height="65" />
+  </a>  
 </p>
 <br>
 
@@ -60,6 +62,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
   <br>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
