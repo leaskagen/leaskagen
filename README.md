@@ -1,3 +1,5 @@
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=leaskagen.leaskagen&left_color=violet&right_color=mediumseagreen&left_text=Profile views"  />
+
 <h1 align="center"> :zap: Lea Skagen :zap: </h1>
 <p align="center">
   Hello there :bangbang::sparkles: 
