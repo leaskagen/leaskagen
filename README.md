@@ -101,12 +101,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leaskagen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false&order=1" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=leaskagen&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false&order=1" height="175" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leaskagen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=omni&hide_border=false&order=2&hide=html" height="175" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=leaskagen&locale=en&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="175" alt="streak graph"  />
 </div>
-
-<br>
- 
-<img align="left" height="160" width="395" src="https://github-readme-stats.vercel.app/api/top-langs?username=leaskagen&show_icons=true&locale=en&layout=compact" alt="leaskagen" />
-<img align="right" height="160" width="395" src="https://github-readme-stats.vercel.app/api?username=leaskagen" alt="leaskagen" />
