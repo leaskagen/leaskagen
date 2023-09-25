@@ -4,7 +4,7 @@
 <p align="center">
   Hello there :bangbang::sparkles: 
   I am a 23 year old girl boss from Oslo, Norway. Currently working as a Frontend Developer at Dr.Dropin. I graduated from Kristiania University College in 2023 with a bachelor's degree in Information Technology - Frontend and Mobile Development. :mortar_board: 
-  I also love to play video games when I am not studying or working, my favorite games include Minecraft, The Sims 4 and Animal Crossing New Horizons. :video_game::space_invader: 
+  I also love to play video games when I am not working, my favorite games include Minecraft, The Sims 4 and Animal Crossing New Horizons. :video_game::space_invader: 
   <br><br>
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="200" align="center"/>
 </p>
@@ -12,7 +12,7 @@
   Check out my 
     <a href="https://www.linkedin.com/in/lea-sofie-skagen-a29451169/">LinkedIn</a> 
   or 
-    <a href="https://leaskagen.dev">Portfolio Website</a> 
+    <a href="https://leaskagen.dev">Website</a> 
   :link::computer:
 </h4>
 <hr>
@@ -63,6 +63,9 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
   <br>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
