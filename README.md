@@ -1,23 +1,38 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=leaskagen.leaskagen&left_color=violet&right_color=mediumseagreen"  />
 
-<h1 align="center"> :zap: Lea Skagen :zap: </h1>
-<p align="center">
-  Hello there :bangbang::sparkles: 
-  I am a 23 year old girl boss from Oslo, Norway. Currently working as a Frontend Developer at Dr.Dropin. I graduated from Kristiania University College in 2023 with a bachelor's degree in Information Technology - Frontend and Mobile Development. :mortar_board: 
-  I also love to play video games when I am not working, my favorite games include Minecraft, The Sims 4 and Animal Crossing New Horizons. :video_game::space_invader: 
-  <br><br>
-  <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="200" align="center"/>
+<h1 align="left"> About me 🩷 </h1>
+<p>
+  Hello 👋 </br>
+  I am a software engineer who works primarily with mobile app development, with previous experience in frontend and fullstack development. Currently a part of Dr.Dropin's technology team. </br> </br>
+  26 years old, and based in Oslo, Norway 🇳🇴 </br> </br>
+  Some of my hobbies outside of work include:
 </p>
-<h4 align="center">
-  Check out my 
-    <a href="https://www.linkedin.com/in/lea-sofie-skagen-a29451169/">LinkedIn</a> 
-  or 
-    <a href="https://leaskagen.dev">Website</a> 
-  :link::computer:
-</h4>
-<hr>
+<p>
+  🎮 Gaming. I play mostly cozy games, such as Pokopia (current favorite), Stardew Valley, Hello Kitty Adventure Island, etc.. 
+</p>
+<p>
+  💻 Work on personal projects, if I feel inspired or have a cool idea
+</p>
+<p>
+  ✈️ Traveling, I love to see new and exotic places. My most recent trip was in China 🇨🇳
+</p>
+</br>
 
-### Technologies I am currently learning / working with
+<h3>
+  Education
+</h3>
+<p>
+  🎓 Kristiania University College: bachelor's degree in Information Technology - Frontend and Mobile Development
+</p>
+<p>
+  🎓 Norwegian University of Science and Technology (NTNU): UX design (1 year)
+</p>
+
+</br>
+<h3>
+  Skills/technologies
+</h3>
+I work primarily with Expo/React Native and Typescript, and do frequent app releases to several thousands of users through App Store and Google Play. I also have experience with native app development in both Swift (iOS) and Kotlin (Android) through native modules I have written for React Native apps, and side projects  
 <br>
 <img src="https://media.giphy.com/media/pzmbXFDiRbEEk1vCtP/giphy.gif" width="350" align="right"/>
 <p align="left">
@@ -95,7 +110,6 @@
 <br>
 <hr>
 
-<img src="https://raw.githubusercontent.com/leaskagen/leaskagen/output/snake.svg" alt="Snake animation"/>
 <br>
 
 <br clear="both">
