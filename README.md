@@ -70,7 +70,7 @@ I work primarily with Expo/React Native and Typescript, and do frequent app rele
 </p>
 <br>
 <h4>
-  Frontend development
+  Frontend development 💻
 </h4>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -105,7 +105,7 @@ I work primarily with Expo/React Native and Typescript, and do frequent app rele
 </p>
 <br>
 <h4>
-  Fullstack development and other technologies
+  Fullstack development and other technologies ⌨️
 </h4>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
